@@ -6,10 +6,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT",
+  "description": "frontend",
   "dependencies": {
     "vue": "^3.5.12"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allyelvis/inventory-pos-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allyelvis/inventory-pos-app/issues"
+  },
+  "homepage": "https://github.com/allyelvis/inventory-pos-app#readme"
 }
