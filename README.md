@@ -18,11 +18,11 @@ This project is a comprehensive POS and inventory management system designed to 
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/AllyElvis/pos-system.git
+   git clone https://github.com/AllyElvis/inventory-pos-app.git
    ```
 2. Navigate to the project directory:
    ```
-   cd pos-system/inventory-pos-app
+   cd inventory-pos-app
    ```
 3. Install dependencies for frontend and backend:
    ```
